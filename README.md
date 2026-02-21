@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Samuel Ketema 👋
 
-<!--
-**Samuel-ketema/Samuel-Ketema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Samuel Ketema:
 
-Here are some ideas to get you started:
+🚀 AWS Generative AI Practitioner
+☁️ Building Serverless AI Applications
+🧠 Focused on Bedrock, Lambda, DynamoDB & Cost-Optimized GenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Featured Projects
+
+📄 Serverless RAG CV Chatbot (Amazon Bedrock + Lambda)
+📚 AI Flashcard Generator from PDFs
+📊 Prompt Cost & Performance Optimizer
+
+🛠 Tech Stack
+AWS • Amazon Bedrock • Lambda • DynamoDB • API Gateway • S3 • CloudWatch • Python
+
+🎯 Current Goal
+Building production-ready GenAI cloud applications within optimized cost budgets.
+
